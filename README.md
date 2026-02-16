@@ -1,0 +1,2 @@
+# Aymara
+Enseñanza del aymara.
